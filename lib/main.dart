@@ -14,7 +14,7 @@ class NoteApp extends StatelessWidget {
       title: "Note app",
       theme: ThemeData(
         brightness: Brightness.dark,
-        // primarySwatch: Colors.deepPurple,
+        primarySwatch: Colors.deepPurple,
         scaffoldBackgroundColor: const Color(0xFF121212),//dark background
         appBarTheme: const AppBarTheme(
           backgroundColor: Colors.black87,
